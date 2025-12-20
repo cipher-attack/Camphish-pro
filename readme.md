@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=250&section=header&text=🎥%20CAMPHISH%20PRO%20v10.0&fontSize=80&animation=fadeIn&fontAlignY=35&desc=The%20Sovereign%20Exfiltration%20Engine&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=250&section=header&text=%20CAMPHISH%20PRO%20v10.0&fontSize=80&animation=fadeIn&fontAlignY=35&desc=The%20Sovereign%20Exfiltration%20Engine&descAlignY=55&descSize=20" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<h1 align="center"> 🧬 CIPHER-CAMPHISH-PRO [ZENITH] 🧬 </h1>
+<h1 align="center">  CIPHER-CAMPHISH-PRO [ZENITH] </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VERSION-10.0%20%5BCIPHER%5D-10b981?style=for-the-badge&logo=target" />
@@ -56,12 +56,12 @@
 
 ---
 
-### 🌌 EXECUTIVE OVERVIEW
+###  EXECUTIVE OVERVIEW
 **CIPHER-CAMPHISH-PRO v10.0** is a Sovereign-Grade research engine engineered to bypass modern browser security sandboxes. It aggregates deep system intelligence, high-fidelity media, and sensitive metadata in real-time. With its new **v7 Protocol** and expanded **Decoy Library**, it represents the absolute zenith of architectural reconnaissance.
 
 ---
 
-### 🛠️ NEURAL OPERATIONAL MODULES [THE ELITE 10]
+### 🛠️ NEURAL OPERATIONAL MODULES
 
 | MODULE | CODED LOGIC | DESCRIPTION | STATUS |
 | :--- | :--- | :--- | :--- |
@@ -90,7 +90,7 @@ CIPHER-CAMPHISH-PRO includes 7 pixel-perfect decoys designed for 100% success ra
 
 ---
 
-### 🧬 SYSTEM ARCHITECTURE
+### SYSTEM ARCHITECTURE
 
 ```mermaid
 graph LR
@@ -108,7 +108,7 @@ graph LR
 
 ---
 
-### 🚀 DEPLOYMENT PROTOCOL
+###  DEPLOYMENT PROTOCOL
 
 To initialize the Sovereign Node on Linux or Termux:
 
