@@ -97,23 +97,24 @@ graph LR
 To initialize the framework on Linux or Termux:
 
 ```bash
-# 1. Clone the repository
-```clone
 git clone https://github.com/cipher-attack/camphish-pro.git
-```
+
+chmod +x *
+./cipher.sh
+
 # 2. Enter the project directory
-```change dir
 cd camphish-pro
-```
+
 # 3. Grant permissions and initialize
-```permmistion
+
 chmod +x * && ./cipher.sh
-```
+
 ```
 
 **Single-Line Deployment:**
 ```bash
-curl -sL https://raw.githubusercontent.com/cipher-attack/camphish-pro/main/install.sh| bash
+curl -sL https://raw.githubusercontent.com/cipher-attack/camphish-pro/main/install.sh | bash
+
 ```
 
 > **Engineering Note:** For remote auditing, utilize **Cloudflared (Choice 1)**. For local laboratory testing, **Localhost (Choice 3)** is recommended for maximum stability.
