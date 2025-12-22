@@ -94,19 +94,18 @@ graph LR
 
 ### DEPLOYMENT PROTOCOL
 
-To initialize the framework on Linux or Termux:
+To initialize the framework on Linux or Termux environments, execute the following commands. Ensure you have a stable network connection and the necessary permissions.
 
 ```bash
+# 1. Clone the repository
 git clone https://github.com/cipher-attack/camphish-pro.git
 
-# 2. Enter the project directory
+# 2. Access the project directory
 cd camphish-pro
 
-# 3. Grant permissions and initialize
-
+# 3. Configure execution permissions and launch
 chmod +x * && ./cipher.sh
 
-```
 
 **Single-Line Deployment:**
 ```bash
