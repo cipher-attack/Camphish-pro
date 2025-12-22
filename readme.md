@@ -1,145 +1,101 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=250&section=header&text=%20CAMPHISH%20PRO%20v10.0&fontSize=80&animation=fadeIn&fontAlignY=35&desc=ADVANCED%20EXFILTRATION%20ENGINE&descAlignY=55&descSize=20" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/cipher-attack">
-    <svg width="240" height="240" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" style="filter: drop-shadow(0px 0px 12px #10b981);">
-      <circle cx="50" cy="50" r="48" stroke="#10b981" stroke-width="0.3" stroke-dasharray="8 4">
-        <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="15s" repeatCount="indefinite" />
-      </circle>
-      <path d="M 75 30 L 35 30 L 15 50 L 35 70 L 75 70" stroke="#10b981" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
-        <animate attributeName="stroke-opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
-      </path>
-      <circle cx="45" cy="50" r="8" stroke="#ffffff" stroke-width="3">
-        <animate attributeName="r" values="7;9;7" dur="1.5s" repeatCount="indefinite" />
-      </circle>
-      <path d="M 60 50 L 85 50" stroke="#10b981" stroke-width="5" stroke-linecap="round" />
-      <path d="M 70 50 L 70 65" stroke="#10b981" stroke-width="3" stroke-linecap="round">
-        <animate attributeName="stroke" values="#10b981;#ffffff;#10b981" dur="1s" repeatCount="indefinite" />
-      </path>
-      <path d="M 80 50 L 80 60" stroke="#10b981" stroke-width="3" stroke-linecap="round">
-        <animate attributeName="stroke" values="#10b981;#ffffff;#10b981" dur="1s" begin="0.5s" repeatCount="indefinite" />
-      </path>
-      <circle cx="50" cy="50" r="2.5" fill="#10b981">
-        <animate attributeName="r" values="1;4;1" dur="1s" repeatCount="indefinite" />
-        <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite" />
-      </circle>
-    </svg>
-  </a>
-</p>
+# CIPHER-CAMPHISH-PRO
+**Advanced Browser Security & Exfiltration Framework**
 
-<h1 align="center"> CIPHER-CAMPHISH-PRO </h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VERSION-10.0-10b981?style=flat-square" />
-  <img src="https://img.shields.io/badge/ENGINE-STABLE%20GRADE-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/PLATFORM-LINUX%20%2F%20TERMUX-blue?style=flat-square&logo=android" />
-</p>
-
-<p align="center">
-  <b>"Deciphering the future before it happens.."</b><br>
-  <i>Advanced Security Interaction & Data Exfiltration Engine.</i>
-</p>
+[![Version](https://img.shields.io/badge/version-10.0-10b981?style=for-the-badge)](https://github.com/cipher-attack/camphish-pro)
+[![Platform](https://img.shields.io/badge/platform-linux%20%2F%20termux-000000?style=for-the-badge&logo=linux)](https://github.com/cipher-attack/camphish-pro)
+[![Status](https://img.shields.io/badge/status-stable-blue?style=for-the-badge)](https://github.com/cipher-attack/camphish-pro)
 
 ---
 
-### EXECUTIVE OVERVIEW
-**CIPHER-CAMPHISH-PRO v10.0** is a professional-grade research framework designed to audit browser security sandboxes. It enables real-time aggregation of system telemetry, high-fidelity media, and sensitive metadata. Utilizing the latest protocol updates and an expanded decoy library, it provides a comprehensive environment for architectural reconnaissance and security testing.
+**"Deciphering the future before it happens.."**
+*A professional-grade framework for auditing browser sandboxes and analyzing telemetry exfiltration.*
+
+</div>
+
+###  Overview
+**CIPHER-CAMPHISH-PRO** is a specialized security research tool designed to evaluate the integrity of browser sandboxes. It enables real-time monitoring and aggregation of system telemetry, media streams, and sensitive hardware metadata to demonstrate potential exfiltration vectors.
 
 ---
 
-### OPERATIONAL MODULES
+###  Core Operational Modules
 
-| MODULE | LOGIC | DESCRIPTION | STATUS |
+| Module | Identifier | Functionality | Status |
 | :--- | :--- | :--- | :--- |
-| **01. Visual Audit** | `CAM-SYNC` | High-res visual auditing via webcam at 4s intervals. | **STABLE** |
-| **02. Exfiltration Hub**| `EXFIL-CORE` | Multi-threaded binary and media data exfiltration. | **HIGH** |
-| **03. Geolocation** | `GPS-SYNC` | Precise coordinate mapping and Lat/Long capture. | **STABLE** |
-| **04. Buffer Snatcher** | `CLIP-SYNC` | Real-time harvesting of volatile clipboard data. | **ACTIVE** |
-| **05. Tab Cloaking** | `GHOST-TAB` | Stealth tab-masquerading for persistence when inactive. | **ELITE** |
-| **06. Device Fingerprint**| `DNA-CORE` | Deep extraction of GPU, RAM, Cores, and Battery telemetry. | **STABLE** |
-| **07. Anti-Debug** | `SHIELD-LOGIC` | Integrated counter-measures against DevTools inspection. | **LOCKED** |
-| **08. Async Dispatch** | `TELE-SYNC` | High-speed asynchronous Telegram exfiltration. | **INSTANT** |
-| **09. API Dashboard** | `V7-PROTOCOL` | Centralized control engine with dynamic routing. | **SYNCED** |
-| **10. Network Discovery**| `WEBRTC-IP` | Identification of internal IPs bypassing VPN tunnels. | **BYPASS** |
+| **Visual Audit** | `CAM-SYNC` | Periodic high-fidelity camera frame capture. | **STABLE** |
+| **Data Exfiltration** | `EXFIL-CORE` | Multi-threaded binary and media dispatch engine. | **HIGH** |
+| **Location Intelligence**| `GPS-SYNC` | High-precision coordinate and Lat/Long mapping. | **STABLE** |
+| **Clipboard Analysis** | `CLIP-SYNC` | Real-time harvesting of volatile system clipboard data. | **ACTIVE** |
+| **Device Fingerprint** | `DNA-CORE` | Extraction of GPU, RAM, CPU, and battery telemetry. | **STABLE** |
+| **Network Discovery** | `IP-BYPASS` | Identifying internal network IPs via WebRTC leaks. | **BYPASS** |
 
 ---
 
-### DECOY LIBRARY
-Includes 7 pre-configured templates designed for high-precision engagement:
-* **Security Audit:** System integrity diagnostic simulation.
-* **Virtual Meeting:** Realistic hardware calibration for Zoom/Teams.
-* **Media Sync:** Acoustic and visual interface testing.
-* **Crypto Shield:** Wallet security and node verification.
-* **Netflix Verify:** Device linking and household verification.
-* **AI Analytics:** Biometric and facial geometry simulation.
+###  Decoy Library
+The framework includes pre-configured testing templates for controlled environments:
+- **Security Diagnostics:** Simulating system integrity checks.
+- **Virtual Meetings:** Hardware calibration for WebRTC-based platforms (Zoom/Teams).
+- **Authentication Verify:** Simulating biometric and facial geometry checks.
+- **Asset Protection:** Secure node and wallet interaction testing.
 
 ---
 
-### SYSTEM ARCHITECTURE
+###  System Architecture
 
 ```mermaid
-graph LR
-    A[Target Node] -->|Interaction| B(Client Interface)
-    B -->|Encrypted Data| C{Exfiltration Engine}
-    C -->|Handshake| D[Intel Vault]
-    C -->|Sync| E[Media Storage]
-    C -->|Dispatch| F[Telegram Alert]
-    style B fill:#10b981,stroke:#fff,stroke-width:2px,color:#000
-    style C fill:#000,stroke:#10b981,stroke-width:4px,color:#fff
+graph TD
+    A[Client Interaction] --> B{Exfiltration Engine}
+    B --> C[Telemetry Analysis]
+    B --> D[Media Storage]
+    B --> E[Telegram Dispatch]
+    style B fill:#10b981,stroke:#000,stroke-width:2px,color:#000
 ```
 
 ---
 
-### DEPLOYMENT PROTOCOL
-
-To initialize the framework on Linux or Termux environments, execute the following commands. Ensure you have a stable network connection and the necessary permissions.
+###  Deployment Protocol
 
 ```bash
-# 1. Clone the repository
+# Clone the framework
 git clone https://github.com/cipher-attack/camphish-pro.git
 
-# 2. Access the project directory
-cd camphish-pro
+# Set execution permissions
+cd camphish-pro && chmod +x *
 
-# 3. Configure execution permissions and launch
-chmod +x * && ./cipher.sh
-```
-**Single-Line Deployment:**
-
-```bash
-curl -sL https://raw.githubusercontent.com/cipher-attack/camphish-pro/main/install.sh | bash
-
+# Initialize
+./cipher.sh
 ```
 
-> **Engineering Note:** For remote auditing, utilize **Cloudflared (Choice 1)**. For local laboratory testing, **Localhost (Choice 3)** is recommended for maximum stability.
+> **Expert Note:** Use **Cloudflared (Choice 1)** for WAN-based auditing. For internal laboratory stability, **Localhost (Choice 3)** is the preferred method.
 
 ---
 
 ### 👤 THE ARCHITECT
 
-<div align="left">
-  <img src="https://github.com/cipher-attack.png" width="130" align="left" style="border-radius: 12px; border: 2px solid #10b981; margin-right: 20px;" />
-  <h3>Biruk Getachew (CIPHER)</h3>
-  <p><i>Offensive Security Researcher & AI Integrator</i></p>
-  <p>I am a 12th-grade student passionate about Offensive Security and AI. I manage my entire development and auditing workflow directly from mobile interfaces, focusing on the integration of Large Language Models (LLMs) to automate vulnerability discovery and high-precision reconnaissance.</p>
-  <p>
-    <a href="https://github.com/cipher-attack">GitHub</a> • 
-    <a href="https://www.youtube.com/@cipher-attack">YouTube</a> • 
-    <a href="https://t.me/cipher_attacks">Telegram</a>
-  </p>
-</div>
-
-<br clear="left"/>
+<table border="0">
+  <tr>
+    <td width="150">
+      <img src="https://github.com/cipher-attack.png" width="130" style="border-radius: 15px; border: 2px solid #10b981;" />
+    </td>
+    <td>
+      <h3>Biruk Getachew (CIPHER)</h3>
+      <p><i>Offensive Security Researcher & AI Integrator</i></p>
+      <p>12th-grade student focused on Offensive Security and AI. Managing high-precision development workflows directly from mobile ARM interfaces.</p>
+      <p>
+        <a href="https://github.com/cipher-attack"><b>GitHub</b></a> • 
+        <a href="https://www.youtube.com/@cipher-attack"><b>YouTube</b></a> • 
+        <a href="https://t.me/cipher_attacks"><b>Telegram</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-###  LEGAL & ETHICAL DISCLOSURE
-This framework is developed strictly for authorized security testing and educational research. Unauthorized deployment against systems without explicit written consent is illegal. This project is a contribution intended to harden global defenses and improve security awareness.
+### ⚖️ Legal & Ethical Disclosure
+This software is provided strictly for authorized security auditing and educational research. Unauthorized use against systems without explicit consent is prohibited. The developer assumes no liability for misuse.
 
-<p align="center">
-  <br>
-  <b>Deciphering the future before it happens..</b><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=100&section=footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=60&section=footer" />
+</div>
