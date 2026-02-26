@@ -1,5 +1,5 @@
 #!/bin/bash
-# PROJECT  : CIPHER-CAMPHISH-PRO v10.0 [ZENITH]
+# PROJECT  : CIPHER-CAMPHISH-PROs v10.0 [ZENITH]
 # ARCHITECT: Biruk Getachew (CIPHER)
 # MOTTO    : "Deciphering the future before it happens.."
 
