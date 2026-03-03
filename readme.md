@@ -62,18 +62,19 @@ graph TD
 
 **Designed for Linux & Termux Environments**
 
-bash
-# 1. Clone the repository
-```Clone
-git clone https://github.com/cipher-attack/camphish-pro.git```
+```bash
+# 1. Clone the repositor
+
+git clone https://github.com/cipher-attack/camphish-pro.git
 
 # 2. Navigate to directory & Grant permissions
-```second
-cd camphish-pro && chmod +x *```
+
+cd camphish-pro && chmod +x *
 
 # 3. Launch the framework
-```launch
-./cipher.sh```
+
+./cipher.sh
+```
 
 > ** Pro Tip:** Use the **Cloudflared** option when testing over the internet (WAN) for better stability than Ngrok. Use **Localhost** for internal testing.
 
