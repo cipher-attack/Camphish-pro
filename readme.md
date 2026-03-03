@@ -83,20 +83,20 @@ cd camphish-pro && chmod +x *
 
 ---
 
-### 👤 ABOUT THE DEVELOPER
+### 👤 About the Developer
 
 <table border="0">
   <tr>
     <td width="150" align="center">
-      <img src="[https://github.com/cipher-attack.png](https://github.com/cipher-attack.png)" width="130" height="130" style="border-radius: 50%; border: 4px solid #10b981; padding: 5px; background: #0d1117;" />
+      <img src="https://github.com/cipher-attack.png" width="130" height="130" style="border-radius: 50%; border: 4px solid #10b981; padding: 5px; background: #0d1117;" />
     </td>
     <td>
       <h3>Biruk Getachew (CIPHER)</h3>
-      <p><i>Security Researcher & Student</i></p>
-      <p>I am a 12th-grade student and self-taught security enthusiast from Ethiopia. My work focuses on Mobile Offensive Security and raising awareness about digital privacy. I build and manage my projects primarily using <b>Termux</b> on my mobile device.</p>
+      <p><i>Security Researcher & Mobile Dev Enthusiast</i></p>
+      <p>A self-taught security researcher from Ethiopia with a passion for offensive security. I spend most of my time exploring privacy gaps and building tools—entirely from my mobile device using <b>Termux</b>. My mission is to make digital security understandable for everyone.</p>
       <p>
-        <a href="[https://github.com/cipher-attack](https://github.com/cipher-attack)"><b>GitHub</b></a> • 
-        <a href="[https://t.me/cipher_attacks](https://t.me/cipher_attacks)"><b>Telegram</b></a>
+        <a href="https://github.com/cipher-attack"><b>GitHub</b></a> • 
+        <a href="https://t.me/cipher_attacks"><b>Telegram</b></a>
       </p>
     </td>
   </tr>
