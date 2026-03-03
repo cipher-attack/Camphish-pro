@@ -24,16 +24,17 @@
 The goal is simple: to prove that **'Allow'** is a powerful button that shouldn't be clicked blindly
 ---
 
-###  Core Modules & Features
+### 🚀 Key Capabilities (What it can do)
+This framework isn't just about links—it's about seeing what’s hidden. Here’s a breakdown of the core modules:
 
-| Feature Name | Internal ID | Functionality | Status |
-| :--- | :--- | :--- | :--- |
-| **Camera Capture** | `MOD-CAM` | Captures snapshots upon permission grant. | **STABLE** |
-| **Data Exfiltration** | `MOD-DATA` | Securely tunnels captured data to host. | **FAST** |
-| **Geolocation** | `MOD-GPS` | Extracts precise location coordinates. | **STABLE** |
-| **Clipboard Analysis** | `MOD-CLIP` | Audits clipboard content privacy. | **ACTIVE** |
-| **Device Fingerprint** | `MOD-INFO` | Analyzing Hardware (RAM, CPU, Battery). | **STABLE** |
-| **Network Recon** | `MOD-NET` | IP Discovery & WebRTC Leak Testing. | **BETA** |
+| Feature | What happens? | 
+| :--- | :--- | 
+| **📸 Camera Capture** | Instantly grabs high-quality snapshots the moment the user says "Allow." |
+| **🛰️ Smart Geolocation** | Pinpoints exact coordinates to show how exposed a user's physical location can be. |
+| **📱 Device Fingerprinting** | Digs deep into the hardware—revealing RAM, CPU, and even battery health. |
+| **🌐 Network Recon** | Uncovers the real IP and tests for WebRTC leaks to see if a VPN is actually working. |
+| **📋 Clipboard Audit** | Demonstrates how sensitive data (like passwords) can be peeked at from the clipboard. |
+| **⚡ Secure Tunneling** | Uses fast and encrypted tunnels to send data back to your terminal instantly. |
 
 ---
 
@@ -102,11 +103,14 @@ cd camphish-pro && chmod +x *
 </table>
 
 ---
-### credit ====> Google Gemini pro
+### credit ==> Google Gemini pro
 
-### ⚠️ Disclaimer
-**This tool is for EDUCATIONAL PURPOSES only.**
-Usage of `CIPHER-CAMPHISH-PRO` for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state, and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+### ⚠️ Fair Warning & Disclaimer
+**This project is built for education, not for trouble.**
+
+`CIPHER-CAMPHISH-PRO` is a tool for security researchers and students to learn about vulnerabilities. Using this tool to target anyone without their explicit permission is not just unethical—it’s illegal. 
+
+As the developer, I take no responsibility for how you choose to use this code. It is entirely up to you to stay within the boundaries of the law and use it only for ethical testing. **Play fair and stay legal.**
 
 <div align="center">
   <img src="[https://capsule-render.vercel.app/api?type=waving&color=10b981&height=60&section=footer](https://capsule-render.vercel.app/api?type=waving&color=10b981&height=60&section=footer)" alt="footer" />
