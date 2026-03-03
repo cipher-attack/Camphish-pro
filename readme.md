@@ -76,7 +76,7 @@ cd camphish-pro && chmod +x *
 ./cipher.sh
 ```
 
-> ** Pro Tip:** Use the **Cloudflared** option when testing over the internet (WAN) for better stability than Ngrok. Use **Localhost** for internal testing.
+> **Pro Tip:** Use the **Cloudflared** option when testing over the internet (WAN) for better stability than Ngrok. Use **Localhost** for internal testing.
 
 ---
 
