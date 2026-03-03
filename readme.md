@@ -112,5 +112,5 @@ cd camphish-pro && chmod +x *
 As the developer, I take no responsibility for how you choose to use this code. It is entirely up to you to stay within the boundaries of the law and use it only for ethical testing. **Play fair and stay legal.**
 
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=10b981&height=60&section=footer](https://capsule-render.vercel.app/api?type=waving&color=10b981&height=60&section=footer)" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=60&section=footer" width="100%" alt="footer" />
 </div>
