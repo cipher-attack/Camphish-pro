@@ -26,17 +26,17 @@
 The goal is simple: to prove that **'Allow'** is a powerful button that shouldn't be clicked blindly
 ---
 
-### 🚀 Key Capabilities (What it can do)
+### Key Capabilities (What it can do)
 This framework isn't just about links—it's about seeing what’s hidden. Here’s a breakdown of the core modules:
 
 | Feature | What happens? | 
 | :--- | :--- | 
-| **📸 Camera Capture** | Instantly grabs high-quality snapshots the moment the user says "Allow." |
-| **🛰️ Smart Geolocation** | Pinpoints exact coordinates to show how exposed a user's physical location can be. |
-| **📱 Device Fingerprinting** | Digs deep into the hardware—revealing RAM, CPU, and even battery health. |
-| **🌐 Network Recon** | Uncovers the real IP and tests for WebRTC leaks to see if a VPN is actually working. |
-| **📋 Clipboard Audit** | Demonstrates how sensitive data (like passwords) can be peeked at from the clipboard. |
-| **⚡ Secure Tunneling** | Uses fast and encrypted tunnels to send data back to your terminal instantly. |
+| **Camera Capture** | Instantly grabs high-quality snapshots the moment the user says "Allow." |
+| ** Smart Geolocation** | Pinpoints exact coordinates to show how exposed a user's physical location can be. |
+| **Device Fingerprinting** | Digs deep into the hardware—revealing RAM, CPU, and even battery health. |
+| **Network Recon** | Uncovers the real IP and tests for WebRTC leaks to see if a VPN is actually working. |
+| **Clipboard Audit** | Demonstrates how sensitive data (like passwords) can be peeked at from the clipboard. |
+| **Secure Tunneling** | Uses fast and encrypted tunnels to send data back to your terminal instantly. |
 
 ---
 
