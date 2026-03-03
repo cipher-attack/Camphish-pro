@@ -4,11 +4,14 @@
 
 <div align="center">
 
-# CIPHER-CAMPHISH-PRO 😳
+#  CIPHER-CAMPHISH-PRO
+**Advanced Browser-Based Intelligence & Phishing Framework**
 
-[![Version](https://img.shields.io/badge/version-10.0-10b981?style=flat-square)](https://github.com/cipher-attack/camphish-pro)
-[![Platform](https://img.shields.io/badge/platform-linux%20%2F%20termux-000000?style=flat-square&logo=linux)](https://github.com/cipher-attack/camphish-pro)
-[![License](https://img.shields.io/badge/license-MIT-orange?style=flat-square)](https://github.com/cipher-attack/camphish-pro)
+<p align="left">
+  <img src="https://img.shields.io/badge/Version-10.0-10b981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Linux%20%2F%20Termux-black?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" />
+</p>
 
 ---
 <div align="center">
