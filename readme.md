@@ -64,13 +64,16 @@ graph TD
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/cipher-attack/camphish-pro.git
+```Clone
+git clone https://github.com/cipher-attack/camphish-pro.git```
 
 # 2. Navigate to directory & Grant permissions
-cd camphish-pro && chmod +x *
+```second
+cd camphish-pro && chmod +x *```
 
 # 3. Launch the framework
-./cipher.sh
+```launch
+./cipher.sh```
 ```
 
 > ** Pro Tip:** Use the **Cloudflared** option when testing over the internet (WAN) for better stability than Ngrok. Use **Localhost** for internal testing.
