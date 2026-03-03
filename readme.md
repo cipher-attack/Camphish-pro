@@ -1,11 +1,10 @@
-<div align="center">
+<div align="left">
   <img src="./image/cipher.jpg" alt="CIPHER" width="150" height="150" style="border-radius: 20px;">
 </div>
 
 <div align="center">
 
-# CIPHER-CAMPHISH-PRO
-**Browser Ssecurity & permissions auditor**
+# CIPHER-CAMPHISH-PRO 😳
 
 [![Version](https://img.shields.io/badge/version-10.0-10b981?style=flat-square)](https://github.com/cipher-attack/camphish-pro)
 [![Platform](https://img.shields.io/badge/platform-linux%20%2F%20termux-000000?style=flat-square&logo=linux)](https://github.com/cipher-attack/camphish-pro)
