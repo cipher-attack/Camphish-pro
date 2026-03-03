@@ -32,7 +32,7 @@ This framework isn't just about links—it's about seeing what’s hidden. Here�
 | Feature | What happens? | 
 | :--- | :--- | 
 | **Camera Capture** | Instantly grabs high-quality snapshots the moment the user says "Allow." |
-| ** Smart Geolocation** | Pinpoints exact coordinates to show how exposed a user's physical location can be. |
+| **Smart Geolocation** | Pinpoints exact coordinates to show how exposed a user's physical location can be. |
 | **Device Fingerprinting** | Digs deep into the hardware—revealing RAM, CPU, and even battery health. |
 | **Network Recon** | Uncovers the real IP and tests for WebRTC leaks to see if a VPN is actually working. |
 | **Clipboard Audit** | Demonstrates how sensitive data (like passwords) can be peeked at from the clipboard. |
