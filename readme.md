@@ -18,12 +18,12 @@
 
 </div>
 
-### 📖 Overview
+###  Overview
 **CIPHER-CAMPHISH-PRO** is a security research tool designed to demonstrate the importance of browser permission management. It simulates a social engineering attack to show how easily sensitive data (like camera access, location, and device info) can be exposed if a user unknowingly grants permissions to a malicious website.
 
 ---
 
-### 🛠 Core Modules & Features
+###  Core Modules & Features
 
 | Feature Name | Internal ID | Functionality | Status |
 | :--- | :--- | :--- | :--- |
@@ -58,7 +58,7 @@ graph TD
 
 ---
 
-### 🚀 Usage Guide
+### 🦮 Usage Guide
 
 **Designed for Linux & Termux Environments**
 
@@ -73,7 +73,7 @@ cd camphish-pro && chmod +x *
 ./cipher.sh
 ```
 
-> **💡 Pro Tip:** Use the **Cloudflared** option when testing over the internet (WAN) for better stability than Ngrok. Use **Localhost** for internal testing.
+> ** Pro Tip:** Use the **Cloudflared** option when testing over the internet (WAN) for better stability than Ngrok. Use **Localhost** for internal testing.
 
 ---
 
