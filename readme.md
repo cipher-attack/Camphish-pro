@@ -12,15 +12,16 @@
 [![License](https://img.shields.io/badge/license-MIT-orange?style=flat-square)](https://github.com/cipher-attack/camphish-pro)
 
 ---
+<div align="center">
 
-**"Exploring the limits of browser privacy."**
-*An educational framework to demonstrate how social engineering exploits browser permissions.*
+**"How private is your browser, really?"** *A hands-on project exploring how easily social engineering can turn browser permissions into security holes.*
 
 </div>
 
-###  Overview
-**CIPHER-CAMPHISH-PRO** is a security research tool designed to demonstrate the importance of browser permission management. It simulates a social engineering attack to show how easily sensitive data (like camera access, location, and device info) can be exposed if a user unknowingly grants permissions to a malicious website.
+### 🔍 Overview
+**CIPHER-CAMPHISH-PRO** is a tool built to show what’s actually at stake when we manage browser permissions. By simulating a real-world social engineering scenario, it highlights how sensitive data—like your camera, location, and device details—can be accessed the moment a user unknowingly trusts a malicious link. 
 
+The goal is simple: to prove that **'Allow'** is a powerful button that shouldn't be clicked blindly
 ---
 
 ###  Core Modules & Features
@@ -36,12 +37,13 @@
 
 ---
 
-### 🧪 Test Scenarios (Templates)
-The tool includes pre-built social engineering templates to test user awareness:
-- **System Diagnostic:** Mimics a browser update or repair screen.
-- **Video Conference:** Simulates Zoom/Teams interfaces to request camera access.
-- **Identity Verification:** Phishing template for biometric/face ID verification.
-- **Crypto-Assets:** Testing vulnerabilities in wallet connection flows.
+### 🧪 Reality Check (Phishing Templates)
+To make the testing feel real, the tool comes with pre-built scenarios that mimic everyday online experiences. These are designed to see if a user can spot the trap:
+
+* **System Diagnostic:** Looks just like a routine browser update or a "fix-it" screen.
+* **Video Conference:** A familiar Zoom/Teams-style interface that asks for camera access before "joining" a meeting.
+* **Identity Verification:** A sleek template designed to look like a secure biometric or Face ID check.
+* **Crypto-Assets:** Tests how users react when prompted to connect their wallets or verify assets.
 
 ---
 
@@ -63,7 +65,7 @@ graph TD
 **Designed for Linux & Termux Environments**
 
 ```bash
-# 1. Clone the repositor
+# 1. Clone the repository
 
 git clone https://github.com/cipher-attack/camphish-pro.git
 
